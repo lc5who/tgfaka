@@ -2,7 +2,7 @@
 
 TGFAKA 是一个基于 Laravel 开发的自动发卡系统，主要用于虚拟商品的在线销售和自动发货。
 ## 前台页面
-![](http://www.picgo.net/image/front.WKp2ip)
+![front](https://img.picgo.net/2025/01/09/front86b2ccd5015a2d91.jpg)
 ## 主要功能
 
 - **商品分类管理**
